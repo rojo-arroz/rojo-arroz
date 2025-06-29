@@ -12,7 +12,7 @@
 - **Machine Learning** 🤖
 - **Data Analysis & Visualization** 📊
 
-Trading foxholes for text boxes — now I write cryptic messages to convince a machine (that’s smarter than me) to do cool stuff.
+Trading foxholes for text boxes — now learning to write cryptic messages to convince a machine (that’s smarter than me) to do cool stuff.
 
 ---
 
@@ -34,9 +34,7 @@ A data-driven look into the **home-field advantage** in college football, explor
 
 - Mech. Engineering & Building stuff
 - Radio's are cool
-- Flipper(ing)
-- Data Science & Analytics  
-- Machine Learning & AI  
+- Flipper(ing) & basic Pen-testing
 - Caffeine
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bradley Rice sometimes known as "Rojo", sometimes "Arroz", "Ricecake", "Rice-pilaf", "Rice-a-roni", "Rice -..." well you get the jist
+# 👋 Hey, I'm Bradley Rice sometimes known as "Rojo", sometimes "Arroz", "Ricecake", "Rice-pilaf", "Rice-a-roni", "Rice -..." well you get the gist
 
 🎖️ Active Duty Ranger | ⚙️ Aspiring Mechanical Engineer  
 - Learning wizardry to harness the power of letters & symbols to conjure intelligent systems. 🔮

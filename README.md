@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Bradley Rice sometimes known as "Rojo", sometimes "Arroz", "Ricecake", "Rice-pilaf", "Rice-a-roni", "Rice -..." well you get the jist
 
 🎖️ Active Duty Ranger | ⚙️ Aspiring Mechanical Engineer  
-- Learning wizardry to harness the power of letters & symbols to conjure intelligent systems 🔮
+- Learning wizardry to harness the power of letters & symbols to conjure intelligent systems. 🔮
 - I'm into engineering and tech. Blending discipline with innovation. ⚖️
 
 ---
@@ -26,15 +26,15 @@ A data-driven look into the **home-field advantage** in college football, explor
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/bk-rice)
-- 📧 b.radleykrice@gmail.com
+- 📩 b.radleykrice@gmail.com
 
 ---
 
 ### 🧠 Interests
 
-- Mech. Engineering & Building stuff
+- Mech. Engineering & building stuff
 - Radio's are cool
-- Flipper(ing) & basic Pen-testing
+- Flipper(ing) & basic pen-testing
 - Caffeine
 
 ---
